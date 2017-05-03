@@ -1,2 +1,2 @@
 # SocialHelper
-Experiment with vk api
+Experiment with vk api (using .NET Core and C# 7)
