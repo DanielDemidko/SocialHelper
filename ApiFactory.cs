@@ -11,7 +11,7 @@ static class ApiFactory
     {
         var userParams = new ApiAuthParams()
         {
-            ApplicationId = 5984535,
+            ApplicationId = ТВОЙИД,
             Settings = Settings.All
         };
         Console.Write("E-mail или номер телефона: ");
